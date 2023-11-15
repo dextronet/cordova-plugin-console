@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-console",
+  "version": "0.2.10",
+  "description": "Cordova Console Plugin",
+  "cordova": {
+    "id": "cordova-plugin-console",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": "github:dextronet/cordova-plugin-console"
+}
